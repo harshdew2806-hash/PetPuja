@@ -90,6 +90,6 @@ The architecture makes it easy to add new screens, components, and application f
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Harsh Dewangan**
 
 If you found this project useful or interesting, consider giving the repository a ⭐ on GitHub.
