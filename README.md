@@ -49,13 +49,13 @@ Project/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+https://github.com/harshdew2806-hash/PetPuja
 ```
 
 ### 2. Navigate to the project
 
 ```bash
-cd YOUR_PROJECT_NAME
+cd PetPuja
 ```
 
 ### 3. Install dependencies
